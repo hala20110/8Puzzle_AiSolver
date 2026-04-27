@@ -1,8 +1,8 @@
-# 🧩 8-Puzzle AI Solver
+#  8-Puzzle AI Solver
 
 An intelligent agent that solves the **8-puzzle game** using both **informed** and **uninformed** search algorithms. Built as part of the ColumbiaX AI course (CSMM.101x).
 
-## 🎯 Problem Description
+##  Problem Description
 
 The 8-puzzle consists of a 3x3 grid with 8 numbered tiles and one empty space (represented as `0`). The goal is to arrange the tiles in ascending order from left to right, top to bottom:
 
@@ -12,7 +12,7 @@ The 8-puzzle consists of a 3x3 grid with 8 numbered tiles and one empty space (r
 
 ---
 
-## 🚀 Algorithms Implemented
+##  Algorithms Implemented
 
 | Algorithm | Type | Complete? | Optimal? |
 |-----------|------|-----------|----------|
@@ -27,12 +27,12 @@ The 8-puzzle consists of a 3x3 grid with 8 numbered tiles and one empty space (r
 
 ---
 
-## 📊 Features
+##  Features
 
-- ✅ Random solvable puzzle generator
-- ✅ Solvability checker (inversion count)
-- ✅ GUI visualization with step-by-step animation
-- ✅ Performance metrics tracking:
+-  Random solvable puzzle generator
+-  Solvability checker (inversion count)
+-  GUI visualization with step-by-step animation
+-  Performance metrics tracking:
   - Path to goal
   - Cost of path
   - Nodes expanded
@@ -42,7 +42,7 @@ The 8-puzzle consists of a 3x3 grid with 8 numbered tiles and one empty space (r
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Python 3.x
 - **Libraries:** 
